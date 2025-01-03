@@ -2,9 +2,12 @@
 const env = require('./env');
 
 const fileName = env.FILE_INPUT;
-const data = require(`./output/${fileName}_output.json`);
+const data = require(`./output/${env.DIR}/${fileName}_output.json`);
 const cookie = env.COOKIE;
 const saveURL = `${env.HOST}index.php/api/master/tarif_pelayanan_v2/save`;
+
+console.log(`Mengirim data ke ${saveURL}`);
+console.log(`Directory: ${env.DIR}`);
 
 function createFormData(data) {
     const formData = new FormData();

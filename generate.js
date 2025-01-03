@@ -1,5 +1,6 @@
+const path = require('path');
 const env = require('./env');
-const data = require(`./data/${env.FILE_INPUT}.json`);
+const data = require(`./data/${env.DIR}/${env.FILE_INPUT}.json`);
 const fs = require('fs');
 
 const fileName = env.FILE_INPUT;
@@ -134,12 +135,19 @@ results.forEach(dataInput => {
     dataParents.push(dataParent);
 });
 
-// console.log(JSON.stringify(dataParents, null, 2));
-const jsonFilePath = `./output/${fileName}_output.json`;
-fs.writeFile(jsonFilePath, JSON.stringify(dataParents, null, 2), 'utf8', (err) => {
+const jsonFilePath = `./output/${env.DIR}/${fileName}_output.json`;
+const dir = path.dirname(jsonFilePath);
+fs.mkdir(dir, { recursive: true }, (err) => {
     if (err) {
-        console.error('Error writing to file', err);
-    } else {
-        console.log('Data successfully saved to', jsonFilePath);
+        console.error('Error creating directory', err);
+        return;
     }
+
+    fs.writeFile(jsonFilePath, JSON.stringify(dataParents, null, 2), 'utf8', (err) => {
+        if (err) {
+            console.error('Error writing to file', err);
+        } else {
+            console.log('Data successfully saved to', jsonFilePath);
+        }
+    });
 });

@@ -1,5 +1,5 @@
 const env = require('./env');
-const data = require(`./data/${env.FILE_INPUT}.json`);
+const data = require(`./data/${env.DIR}/${env.FILE_INPUT}.json`);
 const fs = require('fs');
 
 const structuredData = data.reduce((acc, item) => {
