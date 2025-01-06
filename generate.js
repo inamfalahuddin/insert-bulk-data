@@ -80,7 +80,7 @@ results.forEach(dataInput => {
         uid: 0,
         kelas: 1,
         // bedah: dataInput.id_bedah == 0 ? 0 : 1,
-        bedah: (dataInput.id_bedah > 0) ? dataInput.id_bedah : 0,
+        bedah: (dataInput.id_bedah > 0) ? 1 : 0,
         status: 0,
         komponen_tarif: []
     };

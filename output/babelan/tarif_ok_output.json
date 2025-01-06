@@ -66101,6 +66101,15 @@
           {
             "id": 0,
             "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "2796000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
             "komponen_id": "37",
             "komponen": "B.FEE JASA DOKTER OPERATOR",
             "komponen_jenis": "2",
@@ -66132,6 +66141,15 @@
           {
             "id": 0,
             "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "2796000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
             "komponen_id": "37",
             "komponen": "B.FEE JASA DOKTER OPERATOR",
             "komponen_jenis": "2",
@@ -66163,6 +66181,15 @@
           {
             "id": 0,
             "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "2855600",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
             "komponen_id": "37",
             "komponen": "B.FEE JASA DOKTER OPERATOR",
             "komponen_jenis": "2",
@@ -66194,6 +66221,15 @@
           {
             "id": 0,
             "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "2855600",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
             "komponen_id": "37",
             "komponen": "B.FEE JASA DOKTER OPERATOR",
             "komponen_jenis": "2",
@@ -66225,6 +66261,15 @@
           {
             "id": 0,
             "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "3533850",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
             "komponen_id": "37",
             "komponen": "B.FEE JASA DOKTER OPERATOR",
             "komponen_jenis": "2",
@@ -66251,6 +66296,15 @@
             "komponen": "P.JASA DOKTER OPERATOR",
             "komponen_jenis": "1",
             "tarif": "4319150",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "3533850",
             "biaya": 0
           },
           {
@@ -66287,6 +66341,15 @@
           {
             "id": 0,
             "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "3533850",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
             "komponen_id": "37",
             "komponen": "B.FEE JASA DOKTER OPERATOR",
             "komponen_jenis": "2",
@@ -66313,6 +66376,15 @@
             "komponen": "P.JASA DOKTER OPERATOR",
             "komponen_jenis": "1",
             "tarif": "4751450",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "3887550",
             "biaya": 0
           },
           {
@@ -66349,6 +66421,15 @@
           {
             "id": 0,
             "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "3887550",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
             "komponen_id": "37",
             "komponen": "B.FEE JASA DOKTER OPERATOR",
             "komponen_jenis": "2",
@@ -66375,6 +66456,15 @@
             "komponen": "P.JASA DOKTER OPERATOR",
             "komponen_jenis": "1",
             "tarif": "4751450",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "3887550",
             "biaya": 0
           },
           {
@@ -66411,6 +66501,15 @@
           {
             "id": 0,
             "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "3887550",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
             "komponen_id": "37",
             "komponen": "B.FEE JASA DOKTER OPERATOR",
             "komponen_jenis": "2",
@@ -66442,6 +66541,15 @@
           {
             "id": 0,
             "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "3887550",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
             "komponen_id": "37",
             "komponen": "B.FEE JASA DOKTER OPERATOR",
             "komponen_jenis": "2",
@@ -66468,6 +66576,15 @@
             "komponen": "P.JASA DOKTER OPERATOR",
             "komponen_jenis": "1",
             "tarif": "4751450",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "28",
+            "komponen": "P.KAMAR OPERASI",
+            "komponen_jenis": "1",
+            "tarif": "3887550",
             "biaya": 0
           },
           {
@@ -66499,320 +66616,14 @@
         "jenis": "1"
       },
       {
-        "id": "37",
-        "nama": "B. FEE JASA DOKTER OPERATOR",
-        "jenis": "2"
-      }
-    ]
-  },
-  {
-    "unit": [
-      59,
-      60
-    ],
-    "tarif_detail": [
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 12,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "2796000",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 8,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "2796000",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 7,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "2855600",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 9,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "2855600",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 6,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "3533850",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 5,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "3533850",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 10,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "3533850",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 21,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "3887550",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 1,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "3887550",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 3,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "3887550",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 11,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "3887550",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 19,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "3887550",
-            "biaya": 0
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "tarif_pelayanan_id": "0",
-        "tahun": "2025",
-        "cara_bayar_id": "1",
-        "perusahaan_id": 0,
-        "kelas_id": 13,
-        "golongan_operasi": "3",
-        "biaya": 0,
-        "tarif": 0,
-        "komponen_list": [
-          {
-            "id": 0,
-            "tarif_pelayanan_detail_id": 0,
-            "komponen_id": "28",
-            "komponen": "P.KAMAR OPERASI",
-            "komponen_jenis": "1",
-            "tarif": "3887550",
-            "biaya": 0
-          }
-        ]
-      }
-    ],
-    "nama": "KOLONOSKOPI / BESAR (2025)",
-    "unit_value": "59,60",
-    "icd_9_value": "",
-    "jenis_kegiatan_value": "",
-    "jenis_kegiatan": "",
-    "id": 0,
-    "uid": 0,
-    "kelas": 1,
-    "bedah": "3",
-    "status": 0,
-    "komponen_tarif": [
-      {
         "id": "28",
         "nama": "P. KAMAR OPERASI",
         "jenis": "1"
+      },
+      {
+        "id": "37",
+        "nama": "B. FEE JASA DOKTER OPERATOR",
+        "jenis": "2"
       }
     ]
   }

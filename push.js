@@ -69,7 +69,7 @@ async function sendDataSequentially(dataPayload) {
         }
 
         // Jeda 1 detik sebelum pengiriman berikutnya
-        await sleep(1000);
+        await sleep(0);
     }
 }
 

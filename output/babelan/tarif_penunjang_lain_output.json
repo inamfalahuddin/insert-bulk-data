@@ -1,0 +1,4434 @@
+[
+  {
+    "unit": [
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "736500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "252500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "202000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "736500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "252500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "202000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "860500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "277500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "222000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 9,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "860500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "277500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "222000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "1004000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "305000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "244000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "1004000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "305000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "244000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 10,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "1004000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "305000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "244000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 21,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "1171000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "335000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "268000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "1171000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "335000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "268000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "1171000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "335000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "268000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "1171000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "335000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "268000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 19,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "1171000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "335000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "268000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "1171000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "335000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "268000",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "EEG BRAIN MAPPING (2025)",
+    "unit_value": "50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "10",
+        "nama": "P. JASA PEMERIKSAAN DOKTER",
+        "jenis": "1"
+      },
+      {
+        "id": "35",
+        "nama": "B. FEE JASA PEMERIKSAAN DOKTER",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "387500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "177500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "142000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "387500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "177500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "142000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "455000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "195000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "156000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 9,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "455000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "195000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "156000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "534250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "213750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "171000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "534250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "213750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "171000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 10,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "534250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "213750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "171000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 21,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "626000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "235000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "188000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "626000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "235000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "188000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "626000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "235000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "188000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "626000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "235000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "188000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 19,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "626000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "235000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "188000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "626000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "235000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "188000",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "EEG (2025)",
+    "unit_value": "50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "10",
+        "nama": "P. JASA PEMERIKSAAN DOKTER",
+        "jenis": "1"
+      },
+      {
+        "id": "35",
+        "nama": "B. FEE JASA PEMERIKSAAN DOKTER",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "367250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "658750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "527000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "367250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "658750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "527000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "440700",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "739300",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "591440",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 9,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "440700",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "739300",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "591440",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "528840",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "828160",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "621000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "528840",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "828160",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "621000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 10,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "528840",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "828160",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "621000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 21,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "634608",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "926392",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "745000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "634608",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "926392",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "745000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "634608",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "926392",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "745000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "634608",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "926392",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "745000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 19,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "634608",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "926392",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "745000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "634608",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "926392",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "745000",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "ECHO CARDIOGRAPHY COLOR (2025)",
+    "unit_value": "50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "10",
+        "nama": "P. JASA PEMERIKSAAN DOKTER",
+        "jenis": "1"
+      },
+      {
+        "id": "35",
+        "nama": "B. FEE JASA PEMERIKSAAN DOKTER",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "409000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "755000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "604000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "409000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "755000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "604000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "449900",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "889100",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "711000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 9,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "449900",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "889100",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "711000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "539880",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "1000120",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "800000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "539880",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "1000120",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "800000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 10,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "539880",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "1000120",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "800000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 21,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "647856",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "1123144",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "898000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "647856",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "1123144",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "898000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "647856",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "1123144",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "898000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "647856",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "1123144",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "898000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 19,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "647856",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "1123144",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "898000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "647856",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "1123144",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "898000",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "ECHO CARDIOGRAPHY DOPPLER (2025)",
+    "unit_value": "50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "10",
+        "nama": "P. JASA PEMERIKSAAN DOKTER",
+        "jenis": "1"
+      },
+      {
+        "id": "35",
+        "nama": "B. FEE JASA PEMERIKSAAN DOKTER",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "379000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "560000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "448000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "379000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "560000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "448000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "465000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "615000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "492000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 9,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "465000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "615000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "492000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "558000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "684000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "547000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "558000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "684000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "547000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 10,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "558000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "684000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "547000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 21,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "613800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "815200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "652000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "613800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "815200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "652000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "613800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "815200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "652000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "613800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "815200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "652000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 19,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "613800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "815200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "652000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "613800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "815200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "652000",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "TREADMILL (2025)",
+    "unit_value": "50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "10",
+        "nama": "P. JASA PEMERIKSAAN DOKTER",
+        "jenis": "1"
+      },
+      {
+        "id": "35",
+        "nama": "B. FEE JASA PEMERIKSAAN DOKTER",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "59750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "96250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "77000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "59750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "96250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "77000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "75000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "105000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "84000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 9,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "75000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "105000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "84000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "92000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "115000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "92000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "92000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "115000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "92000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 10,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "92000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "115000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "92000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 21,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "105800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "133200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "106000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "105800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "133200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "106000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "105800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "133200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "106000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "105800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "133200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "106000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 19,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "105800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "133200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "106000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "105800",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "133200",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "106000",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "EKG (2025)",
+    "unit_value": "50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "10",
+        "nama": "P. JASA PEMERIKSAAN DOKTER",
+        "jenis": "1"
+      },
+      {
+        "id": "35",
+        "nama": "B. FEE JASA PEMERIKSAAN DOKTER",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "46500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "102500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "82000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "46500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "102500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "82000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "51500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "112500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "90000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 9,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "51500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "112500",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "90000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "57250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "123750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "99000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "57250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "123750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "99000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 10,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "57250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "123750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "99000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 21,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "65000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "135000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "108000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "65000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "135000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "108000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "65000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "135000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "108000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "65000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "135000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "108000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 19,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "65000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "135000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "108000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "65000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "135000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "108000",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "AUDIOMETRI (2025)",
+    "unit_value": "50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "10",
+        "nama": "P. JASA PEMERIKSAAN DOKTER",
+        "jenis": "1"
+      },
+      {
+        "id": "35",
+        "nama": "B. FEE JASA PEMERIKSAAN DOKTER",
+        "jenis": "2"
+      }
+    ]
+  },
+  {
+    "unit": [
+      50
+    ],
+    "tarif_detail": [
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 12,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "583750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "241250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "193000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 8,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "583750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "241250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "193000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 7,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "684000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "265000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "212000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 9,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "684000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "265000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "212000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 6,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "800750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "291250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "233000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 5,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "800750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "291250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "233000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 10,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "800750",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "291250",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "233000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 21,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "936000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "320000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "256000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 1,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "936000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "320000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "256000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 3,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "936000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "320000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "256000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 11,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "936000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "320000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "256000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 19,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "936000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "320000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "256000",
+            "biaya": 0
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "tarif_pelayanan_id": "0",
+        "tahun": "2025",
+        "cara_bayar_id": "1",
+        "perusahaan_id": 0,
+        "kelas_id": 13,
+        "golongan_operasi": 0,
+        "biaya": 0,
+        "tarif": 0,
+        "komponen_list": [
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "8",
+            "komponen": "P.BHP",
+            "komponen_jenis": "1",
+            "tarif": "936000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "10",
+            "komponen": "P.JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "1",
+            "tarif": "320000",
+            "biaya": 0
+          },
+          {
+            "id": 0,
+            "tarif_pelayanan_detail_id": 0,
+            "komponen_id": "35",
+            "komponen": "B.FEE JASA PEMERIKSAAN DOKTER",
+            "komponen_jenis": "2",
+            "tarif": "256000",
+            "biaya": 0
+          }
+        ]
+      }
+    ],
+    "nama": "SPIROMETRI (2025)",
+    "unit_value": "50",
+    "icd_9_value": "",
+    "jenis_kegiatan_value": "",
+    "jenis_kegiatan": "",
+    "id": 0,
+    "uid": 0,
+    "kelas": 1,
+    "bedah": 0,
+    "status": 0,
+    "komponen_tarif": [
+      {
+        "id": "8",
+        "nama": "P. BHP",
+        "jenis": "1"
+      },
+      {
+        "id": "10",
+        "nama": "P. JASA PEMERIKSAAN DOKTER",
+        "jenis": "1"
+      },
+      {
+        "id": "35",
+        "nama": "B. FEE JASA PEMERIKSAAN DOKTER",
+        "jenis": "2"
+      }
+    ]
+  }
+]
