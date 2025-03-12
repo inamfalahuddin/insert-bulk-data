@@ -67,11 +67,11 @@ const result = Object.values(structuredData);
 const results = result; // Assuming 'result' is the array of data inputs
 const dataParents = []; // Array to hold all dataParent objects
 results.forEach(dataInput => {
-    let unitArray = dataInput.unit.split(',').map(Number);
+    let unitArray = dataInput.unit.split(',').map(Number) ?? env.UNIT_ID;
     const dataParent = {
         unit: unitArray,
         tarif_detail: [],
-        nama: `${dataInput.nama_tarif} (2025)`,
+        nama: `${dataInput.nama_tarif}`,
         unit_value: dataInput.unit,
         icd_9_value: "",
         jenis_kegiatan_value: "",
@@ -79,7 +79,6 @@ results.forEach(dataInput => {
         id: 0,
         uid: 0,
         kelas: 1,
-        // bedah: dataInput.id_bedah == 0 ? 0 : 1,
         bedah: (dataInput.id_bedah > 0) ? 1 : 0,
         status: 0,
         komponen_tarif: []
@@ -102,7 +101,7 @@ results.forEach(dataInput => {
             id: 0,
             tarif_pelayanan_id: "0",
             tahun: dataInput.tahun ?? "2025",
-            cara_bayar_id: "1",
+            cara_bayar_id: env.CARA_BAYAR_ID ?? '1',
             perusahaan_id: 0,
             kelas_id: item,
             golongan_operasi: dataInput.id_bedah ?? 0,
